@@ -1,0 +1,14 @@
+﻿{
+	"name": "p2plab",
+	"description": "ACTUS P2P Labs Site",
+	"homepage": "http://my-project.org",
+	"copyright": "Copyright © 2015, Choi Ye Zune",
+	"authors": [
+		"Choi Ye Zune"
+	],
+	"dependencies": {
+		"vibe-d": {"version": "~master"}
+	},
+	"subConfigurations": { "vibe-d": "libasync"},
+	"versions": ["VibeDefaultMain"]
+}
