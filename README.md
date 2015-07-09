@@ -2,4 +2,4 @@
 
 p2plab home page
 
-p2plab is  IT research laboratory about a peer-to-peer based commons.
+p2plab is a IT research laboratory about peer-to-peer based commons.
